@@ -1,0 +1,12 @@
+
+‡
+java:S21591"VRemove this call to "equals"; comparisons between unrelated types always return false.(…ĞãŠûÿÿÿÿ8Ğ¶¥å•0HÿRMAJORZBUG
+r
+java:S2789"FEnsure this "Optional" could never be null and remove this null-check.(Ö‹êŒ8Òòˆ–0HßRMAJORZBUG
+j
+java:S2589"7Remove this expression which always evaluates to "true"(Ö‹êŒ8Òòˆ–0HàRMAJORZ
+CODE_SMELL
+e
+java:S1128
+"2Remove this unused import 'com.zensar.bean.Order'.(Ô«Å¾8Òòˆ–0HäRMINORZ
+CODE_SMELL

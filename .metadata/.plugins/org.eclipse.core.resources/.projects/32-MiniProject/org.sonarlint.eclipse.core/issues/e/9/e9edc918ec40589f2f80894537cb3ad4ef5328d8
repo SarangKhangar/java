@@ -1,0 +1,9 @@
+
+w
+java:S2789!"FEnsure this "Optional" could never be null and remove this null-check.(ŽÈ²àúÿÿÿÿ8ßƒÓè•0HÐRMAJORZBUG
+c
+java:S11726"+Remove this unused method parameter "date".(¸´óœúÿÿÿÿ8¬ÊÅß•0HÖRMAJORZ
+CODE_SMELL
+o
+java:S2589!"7Remove this expression which always evaluates to "true"(ŽÈ²àúÿÿÿÿ8ßƒÓè•0HÒRMAJORZ
+CODE_SMELL

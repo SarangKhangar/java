@@ -1,0 +1,6 @@
+
+g
+java:S1128	"5Remove this unused import 'com.zensar.bean.Category'.(×¨Æ+8ðö‰ˆ–0HÍRMINORZ
+CODE_SMELL
+c
+java:S3655*"7Call "Optional#isPresent()" before accessing the value.(ÍÀè¹8Ó‚¿Þ•0HÂRMAJORZBUG
