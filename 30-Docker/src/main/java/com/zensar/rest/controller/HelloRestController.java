@@ -8,7 +8,7 @@ public class HelloRestController {
 	
 	@GetMapping("/welcome")
 	public String hello() {
-		return "Hello from Docker";
+		return "Hello Sarang.... from docker";
 	}
 
 }
